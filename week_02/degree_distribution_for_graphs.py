@@ -1,5 +1,7 @@
 """
-Degree distributions for graphs.
+Author: Towfiqul Islam
+Algorithmic Thinking (Part 1)
+Project 1: Degree Distributions for Graphs
 """
 
 #Representing directed graphs
